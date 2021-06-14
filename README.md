@@ -64,15 +64,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/be-astonished/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kguite/be-astonished/issues) for a list of proposed features (and known issues).
 
-Features coming soon:
+Features Coming Soon:
    * Contact and About Pages
    * Categories
 
 Bugs Working On: 
    * Working profile pictures
-   * Categories
    * Some submit buttons do not affirm, even though the submit is successful.
    
    
