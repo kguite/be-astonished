@@ -5,7 +5,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/33885541/121843947-0a030f00-cc98-11eb-9f2a-8c003e848c3b.png)
+<img width="1438" alt="HomePageFeed1" src="https://user-images.githubusercontent.com/33885541/121847770-f35fb680-cc9d-11eb-9036-0d9f3c59bf8e.png">
+
 (https://example.com)
 
 
@@ -70,9 +71,9 @@ Features coming soon:
    * Categories
 
 Bugs Working On: 
-    * working profile pictures
-    * categories
-    * some submit buttons do not affirm, even though the submit is successful.
+   * Working profile pictures
+   * Categories
+   * Some submit buttons do not affirm, even though the submit is successful.
    
    
 
