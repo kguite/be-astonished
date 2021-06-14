@@ -86,8 +86,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/kguite/be-astonished/issues) for a list of proposed features (and known issues).
 
 Features Coming Soon:
-   * Contact and About Pages
+   * Contact and About Pages are currently empty placeholders.
+   * Will change Contact page to a list of inspirational content, such as brainpickings.org, https://emergencemagazine.org/, https://onbeing.org/, etc.
    * Categories
+   * Secret group code - keep your posts private to you only, or within your group.
 
 Bugs Working On: 
    * Working profile pictures
