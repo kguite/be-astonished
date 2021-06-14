@@ -103,12 +103,13 @@ Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguit
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
+* [100Devs](https://www.100devs.com)
+* [Learn With Leon](https://www.leonnoel.com)
 * [FreeCodeCamp: State Management with React Hooks](https://www.freecodecamp.org/news/state-management-with-react-hooks/)
 * [ReactRouter.com](https://reactrouter.com/web/guides/quick-start)
-* [Logrocket.com](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/#whatiscontext)
-* [KentCDodds.com](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
-* []()
+* [Logrocket.com: Use Hooks and Context](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/#whatiscontext)
+* [KentCDodds.com: How to Use React Context Effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+* [@Killerchip on Medium.com: Handling Async Fetching of Data with React-Redux](https://medium.com/@killerchip0/handling-asynchronous-fetching-of-data-with-react-redux-2aecc65e87af)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
