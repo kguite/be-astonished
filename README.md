@@ -1,17 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -36,7 +22,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Be Astonished</h3>
 
   <p align="center">
     project_description
@@ -62,6 +48,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li>Full MERN stack - MongoDb, Express, React, Node.  Hosted on Heroku.</li>
       </ul>
     </li>
     <li>
@@ -94,16 +81,19 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [MongoDB](MongoDB)
+* [Express](Express)
+* [Node.js](Node)
+* [React.js](React.js)
+* [Heroku](Heroku)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+
+  
 
 ### Prerequisites
 
@@ -117,13 +107,24 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/kguite/be-astonished.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Install NPM packages
+   ```sh
+   npm install
+   ```
+5. Install NPM packages
+   ```sh
+   npm install
+   ```
 
 
 <!-- USAGE EXAMPLES -->
@@ -138,7 +139,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/github_username/be-astonished/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,9 +166,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Katie Marie - [@tkhtmlcssjs](https://twitter.com/khtmlcssjs)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguite/be-astonished)
 
 
 
