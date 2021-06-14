@@ -1,11 +1,30 @@
 
 
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Be Astonished
 
+
+Be Astonished is a full stack MERN app, using Node authorization.
+
+The purpose of Be Astonished is to be a social-media free space to focus on the moments that matter. 
+
+The user can:
+   * login and logout.
+   * click on "write" to add a photo and write their blog post.
+   * submit their blog post
+   * grow their feed with memorable moments.
+   * see other authors posts
+   * click the icons to see National Geographic photo of the day, NASA's photo of the day, Kexp.org to discover new music, or Poetry.org's poem of the day.
+
+
+Three screenshots of home page, #1:
 <img width="1438" alt="HomePageFeed1" src="https://user-images.githubusercontent.com/33885541/121847770-f35fb680-cc9d-11eb-9036-0d9f3c59bf8e.png">
+
+Three screenshots of home page, #2:
+<img width="1435" alt="HomePageFeed2" src="https://user-images.githubusercontent.com/33885541/121934599-5aac5380-ccfc-11eb-87b1-065554731a79.png">
+
+Three screenshots of home page, #3:
+<img width="1336" alt="HomePageFeed3" src="https://user-images.githubusercontent.com/33885541/121934614-5f710780-ccfc-11eb-9164-8f5595697d64.png">
 
 (https://example.com)
 
