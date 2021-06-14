@@ -66,6 +66,8 @@ The user can:
    * see other authors posts
    * click the icons to see National Geographic photo of the day, NASA's photo of the day, Kexp.org to discover new music, or Poetry.org's poem of the day.
 
+<img width="1337" alt="HomePageFeed2" src="https://user-images.githubusercontent.com/33885541/121938623-e45e2000-cd00-11eb-930c-771647df30c6.png">
+
 
 
 
@@ -128,6 +130,7 @@ Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguit
 * [Font Awesome Icons](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
 * [Google Fonts](https://fonts.google.com/)
 * [Unsplash](https://www.unsplash.com)
+* [Lit Ipsum](https://litipsum.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
