@@ -5,15 +5,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/33885541/121843947-0a030f00-cc98-11eb-9f2a-8c003e848c3b.png)
+(https://example.com)
 
 
 ### Built With
 
-* [MongoDB](MongoDB)
-* [Express](Express)
-* [Node.js](Node)
-* [React.js](React.js)
+* [MongoDB]("https://www.mongodb.com/")
+* [Express]("https://expressjs.com/")
+* [Node.js]("https://nodejs.org/en/")
+* [React.js]("https://reactjs.org/")
 * [Heroku](Heroku)
 
 
@@ -22,15 +23,6 @@
 
 To get a local copy up and running follow these simple steps.
 
-  
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -38,23 +30,26 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/kguite/be-astonished.git
    ```
-2. Install NPM packages
+2. Install React
    ```sh
-   npm install
+   npx create-react-app
    ```
-3. Install NPM packages
+3. Inside Client Folder:
    ```sh
-   npm install
+   yarn add react-router-dom
    ```
-4. Install NPM packages
+4. Inside API folder:
    ```sh
-   npm install
+   yarn add express mongoose dotenv multer
    ```
-5. Install NPM packages
+5. Setup free cluster at MongoDB, then add application key in .env file.
    ```sh
-   npm install
+   www.mongodb.com
    ```
-
+6. Step 6
+   ```sh
+   step 6
+   
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -70,6 +65,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/be-astonished/issues) for a list of proposed features (and known issues).
 
+Features coming soon:
+    - working profile pictures
+    - categories
+    - some submit buttons do not affirm, even though the submit is successful.
+   
 
 
 <!-- CONTRIBUTING -->
@@ -104,12 +104,11 @@ Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguit
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
+* [FreeCodeCamp: State Management with React Hooks](https://www.freecodecamp.org/news/state-management-with-react-hooks/)
+* [ReactRouter.com](https://reactrouter.com/web/guides/quick-start)
+* [Logrocket.com](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/#whatiscontext)
+* [KentCDodds.com](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 * []()
-* []()
-* []()
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
