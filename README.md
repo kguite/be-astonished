@@ -116,6 +116,9 @@ Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguit
 * [Logrocket.com: Use Hooks and Context](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/#whatiscontext)
 * [KentCDodds.com: How to Use React Context Effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 * [@Killerchip on Medium.com: Handling Async Fetching of Data with React-Redux](https://medium.com/@killerchip0/handling-asynchronous-fetching-of-data-with-react-redux-2aecc65e87af)
+* [Font Awesome Icons](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+* [Google Fonts](https://fonts.google.com/)
+* [Unsplash](https://www.unsplash.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
