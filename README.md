@@ -1,19 +1,24 @@
 
 
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Be Astonished
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Be Astonished is a full stack MERN app, using Node authorization.
+
+The purpose of Be Astonished is to be a social-media free space to focus on the moments that matter. 
+
+<img width="1438" alt="HomePageFeed1" src="https://user-images.githubusercontent.com/33885541/121847770-f35fb680-cc9d-11eb-9036-0d9f3c59bf8e.png">
+
+(https://example.com)
 
 
 ### Built With
 
-* [MongoDB](MongoDB)
-* [Express](Express)
-* [Node.js](Node)
-* [React.js](React.js)
+* [MongoDB]("https://www.mongodb.com/")
+* [Express]("https://expressjs.com/")
+* [Node.js]("https://nodejs.org/en/")
+* [React.js]("https://reactjs.org/")
 * [Heroku](Heroku)
 
 
@@ -22,15 +27,6 @@
 
 To get a local copy up and running follow these simple steps.
 
-  
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -38,38 +34,57 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/kguite/be-astonished.git
    ```
-2. Install NPM packages
+2. Install React
    ```sh
-   npm install
+   npx create-react-app
    ```
-3. Install NPM packages
+3. Inside Client Folder:
    ```sh
-   npm install
+   yarn add react-router-dom
    ```
-4. Install NPM packages
+4. Inside API folder:
    ```sh
-   npm install
+   yarn add express mongoose dotenv multer
    ```
-5. Install NPM packages
+5. Setup free cluster at MongoDB, then add application key in .env file.
    ```sh
-   npm install
+   www.mongodb.com
    ```
-
+6. Step 6
+   ```sh
+   step 6
+   
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The user can:
+   * login and logout.
+   * click on "write" to add a photo and write their blog post.
+   * submit their blog post
+   * grow their feed with memorable moments.
+   * see other authors posts
+   * click the icons to see National Geographic photo of the day, NASA's photo of the day, Kexp.org to discover new music, or Poetry.org's poem of the day.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/be-astonished/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kguite/be-astonished/issues) for a list of proposed features (and known issues).
 
+Features Coming Soon:
+   * Contact and About Pages are currently empty placeholders.
+   * Will change Contact page to a list of inspirational content, such as brainpickings.org, https://emergencemagazine.org/, https://onbeing.org/, etc.
+   * Categories
+   * Secret group code - keep your posts private to you only, or within your group.
+
+Bugs Working On: 
+   * Working profile pictures
+   * Some submit buttons do not affirm, even though the submit is successful.
+   
+   
 
 
 <!-- CONTRIBUTING -->
@@ -103,13 +118,16 @@ Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguit
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
+* [100Devs](https://www.100devs.com)
+* [Learn With Leon](https://www.leonnoel.com)
+* [FreeCodeCamp: State Management with React Hooks](https://www.freecodecamp.org/news/state-management-with-react-hooks/)
+* [ReactRouter.com](https://reactrouter.com/web/guides/quick-start)
+* [Logrocket.com: Use Hooks and Context](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/#whatiscontext)
+* [KentCDodds.com: How to Use React Context Effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+* [@Killerchip on Medium.com: Handling Async Fetching of Data with React-Redux](https://medium.com/@killerchip0/handling-asynchronous-fetching-of-data-with-react-redux-2aecc65e87af)
+* [Font Awesome Icons](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+* [Google Fonts](https://fonts.google.com/)
+* [Unsplash](https://www.unsplash.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
