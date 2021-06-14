@@ -11,7 +11,7 @@ export default function Register() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState(false);
 
-// register and login pages almost identical, input placeholder and colors are different
+
   const handleSubmit = async (e) => {
     e.preventDefault(); // prevent refresh
     setError(false); // when Submit pressed, no error

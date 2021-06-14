@@ -43,6 +43,7 @@
   /* Sidebar - Item - Text */
   .sidebarItem > p {
     padding: 30px;
+    text-align: center;
   }
   
   /* Sidebar - List */

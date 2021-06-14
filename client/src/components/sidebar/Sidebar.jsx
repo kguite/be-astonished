@@ -24,7 +24,11 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-        When it's over, I want to say: all my life I was a bride married to amazement. I was the bridegroom, taking the world into my arms.<br></br>
+        “Instructions for living a life.<br></br>
+        Pay attention.<br></br>
+        Be astonished.<br></br>
+        Tell about it.”<br></br>
+          <br></br>
         -Mary Oliver
         </p>
       </div>
