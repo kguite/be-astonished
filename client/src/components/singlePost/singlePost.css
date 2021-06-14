@@ -1,0 +1,112 @@
+/* Single Post */
+
+.singlePost {
+    flex: 9;
+  }
+  
+
+  /* Single Post Wrapper */
+  .singlePostWrapper {
+    padding: 20px;
+    padding-right: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Single Post Image */
+  .singlePostImg {
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+  
+  /* Single Post Title */
+  .singlePostTitle {
+    text-align: center;
+    margin: 10px;
+    font-family: "Lora", serif;
+    font-size: 28px;
+  }
+  
+  /* Single Post Title Input */
+  .singlePostTitleInput {
+    margin: 10px;
+    font-family: "Lora", serif;
+    font-size: 28px;
+    text-align: center;
+    border: none;
+    color: gray;
+    border-bottom: 1px solid lightgray;
+  }
+  
+
+  .singlePostTitleInput:focus {
+    outline: none;
+  }
+  /* Single Post Edit Icon */
+  .singlePostEdit {
+    float: right;
+    font-size: 16px;
+  }
+  /* Single Post Icon, with room */
+  .singlePostIcon {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  /* Edit Icon */
+  .singlePostIcon:first-child {
+    color: teal;
+  }
+  
+  /* Trash Icon */
+  .singlePostIcon:last-child {
+    color: tomato;
+  }
+  
+  /* Single Post Container */
+  .singlePostInfo {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-family: "Varela Round", sans-serif;
+    color: #b39656;
+  }
+  
+  /* Single Post Description */
+  .singlePostDesc {
+    color: #666;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  
+  /* Single Post First Letter - Pretty and Large */
+  .singlePostDesc::first-letter {
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  
+  .singlePostDescInput {
+    border: none;
+    color: #666;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  
+  .singlePostDescInput:focus {
+    outline: none;
+  }
+  .singlePostButton {
+    width: 100px;
+    border: none;
+    background-color: teal;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-end;
+    margin-top: 20px;
+  }
