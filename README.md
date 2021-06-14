@@ -95,7 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Katie Marie - [@tkhtmlcssjs](https://twitter.com/khtmlcssjs)
+Katie Marie - [@khtmlcssjs](https://twitter.com/khtmlcssjs)
 
 Project Link: [https://github.com/kguite/be-astonished](https://github.com/kguite/be-astonished)
 
