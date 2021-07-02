@@ -10,7 +10,7 @@ The purpose of Be Astonished is to be a social-media free space to focus on the 
 
 <img width="1438" alt="HomePageFeed1" src="https://user-images.githubusercontent.com/33885541/121847770-f35fb680-cc9d-11eb-9036-0d9f3c59bf8e.png">
 
-(https://example.com)
+(https://comingsoon.com)
 
 
 ### Built With
@@ -50,9 +50,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    www.mongodb.com
    ```
-6. Step 6
-   ```sh
-   step 6
+6. coming soon!
    
 
 <!-- USAGE EXAMPLES -->
