@@ -27,13 +27,13 @@ export default function TopBar() {
             </Link>
           </li>
           <li className="topListItem">
-            <Link className="link" to="/">
-              ABOUT
+            <Link className="link" to="/kindle">
+              KINDLE
             </Link>
           </li>
           <li className="topListItem">
-            <Link className="link" to="/">
-              CONTACT
+            <Link className="link" to="/breathe">
+              BREATHE
             </Link>
           </li>
           <li className="topListItem">
