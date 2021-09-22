@@ -24,8 +24,37 @@ Instructions for living a life: <br>
 <em>Tell about it.</em> <br>
 "Sometimes", by Mary Oliver
 
+<img width="1337" alt="HomePageFeed2" src="https://user-images.githubusercontent.com/33885541/121938623-e45e2000-cd00-11eb-930c-771647df30c6.png">
 
-### Built With
+<!-- USAGE EXAMPLES -->
+## Usage
+
+The user can:
+   * login and logout.
+   * click on "write" to add a photo and write their blog post.
+   * submit their blog post
+   * grow their feed with memorable moments.
+   * see other authors posts
+   * click the icons to see [Outdoor Photographer Daily Photo](https://www.outdoorphotographer.com/blog/category/photo-of-the-day/),  [NASA's Image of the Day](https://www.nasa.gov/multimedia/imagegallery/iotd.html), discover new music at [Kexp.org's Weekly "Music that Matters"](https://www.kexp.org/podcasts/weekly-mix/), or [Poetry Foundation's Daily Poem](https://www.poetryfoundation.org/poems/poem-of-the-day)
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/kguite/be-astonished/issues) for a list of proposed features (and known issues).
+
+Features Coming Soon:
+   * Contact and About Pages are currently empty placeholders.
+   * Will change Contact page to a list of curated inspirational content, such as [brainpickings.org](https://www.brainpickings.org/), [Emergence Magaine](https://emergencemagazine.org/), [On Being Podcast](https://onbeing.org/), [UCLA's Guided Meditations](https://www.uclahealth.org/marc/mindful-meditations), etc.
+   * Categories
+   * Secret group code - keep your posts private to you only, or within your group.
+
+Bugs Working On: 
+   * Working profile pictures
+   * Some submit buttons do not affirm, even though the submit is successful.
+
+<!-- Built With -->
+## Built With
 
 * [MongoDB]("https://www.mongodb.com/")
 * [Express]("https://expressjs.com/")
@@ -64,35 +93,6 @@ To get a local copy up and running follow these simple steps.
    ```
 6. Coming soon!
    
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-The user can:
-   * login and logout.
-   * click on "write" to add a photo and write their blog post.
-   * submit their blog post
-   * grow their feed with memorable moments.
-   * see other authors posts
-   * click the icons to see [Outdoor Photographer Daily Photo](https://www.outdoorphotographer.com/blog/category/photo-of-the-day/),  [NASA's Image of the Day](https://www.nasa.gov/multimedia/imagegallery/iotd.html), discover new music at [Kexp.org's Weekly "Music that Matters"](https://www.kexp.org/podcasts/weekly-mix/), or [Poetry Foundation's Daily Poem](https://www.poetryfoundation.org/poems/poem-of-the-day)
-
-<img width="1337" alt="HomePageFeed2" src="https://user-images.githubusercontent.com/33885541/121938623-e45e2000-cd00-11eb-930c-771647df30c6.png">
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/kguite/be-astonished/issues) for a list of proposed features (and known issues).
-
-Features Coming Soon:
-   * Contact and About Pages are currently empty placeholders.
-   * Will change Contact page to a list of curated inspirational content, such as [brainpickings.org](https://www.brainpickings.org/), [Emergence Magaine](https://emergencemagazine.org/), [On Being Podcast](https://onbeing.org/), [UCLA's Guided Meditations](https://www.uclahealth.org/marc/mindful-meditations), etc.
-   * Categories
-   * Secret group code - keep your posts private to you only, or within your group.
-
-Bugs Working On: 
-   * Working profile pictures
-   * Some submit buttons do not affirm, even though the submit is successful.
    
 
 
