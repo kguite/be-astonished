@@ -3,14 +3,26 @@
 <!-- ABOUT THE PROJECT -->
 ## Be Astonished
 
+<img width="1438" alt="HomePageFeed1" src="https://user-images.githubusercontent.com/33885541/121847770-f35fb680-cc9d-11eb-9036-0d9f3c59bf8e.png">
+
+(https://comingsoon.com)
+
 
 Be Astonished is a full stack MERN app, using Node authorization.
 
 The purpose of Be Astonished is to be a social-media free space to focus on the moments that matter. 
 
-<img width="1438" alt="HomePageFeed1" src="https://user-images.githubusercontent.com/33885541/121847770-f35fb680-cc9d-11eb-9036-0d9f3c59bf8e.png">
+As a busy parent or student, it's easy to take to social media when you need those 15 minutes to unwind.  But what if you refocused that energy on noticing the miracles around you every day?  
 
-(https://comingsoon.com)
+What if you were intentional with that time and instead of Reddit, used it to focus on something miraculous (NASA or National Geographic photos of the day) or inspiring (Poetry of the day, music, curated podcasts)? 
+
+Or instead scrolling Instagram and giving your data to Facebook, you upload a photo and write a little bit of something around you that is meaningful to you? 
+
+Instructions for living a life: <br>
+<em>Pay attention.</em> <br>
+<em>Be astonished.</em> <br>
+<em>Tell about it.</em> <br>
+"Sometimes", by Mary Oliver
 
 
 ### Built With
@@ -19,7 +31,7 @@ The purpose of Be Astonished is to be a social-media free space to focus on the 
 * [Express]("https://expressjs.com/")
 * [Node.js]("https://nodejs.org/en/")
 * [React.js]("https://reactjs.org/")
-* [Heroku](Heroku)
+* [Heroku - coming soon](Heroku)
 
 
 <!-- GETTING STARTED -->
@@ -50,7 +62,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    www.mongodb.com
    ```
-6. coming soon!
+6. Coming soon!
    
 
 <!-- USAGE EXAMPLES -->
@@ -62,11 +74,9 @@ The user can:
    * submit their blog post
    * grow their feed with memorable moments.
    * see other authors posts
-   * click the icons to see National Geographic photo of the day, NASA's photo of the day, Kexp.org to discover new music, or Poetry.org's poem of the day.
+   * click the icons to see [Outdoor Photographer Daily Photo](https://www.outdoorphotographer.com/blog/category/photo-of-the-day/),  [NASA's Image of the Day](https://www.nasa.gov/multimedia/imagegallery/iotd.html), discover new music at [Kexp.org's Weekly "Music that Matters"](https://www.kexp.org/podcasts/weekly-mix/), or [Poetry Foundation's Daily Poem](https://www.poetryfoundation.org/poems/poem-of-the-day)
 
 <img width="1337" alt="HomePageFeed2" src="https://user-images.githubusercontent.com/33885541/121938623-e45e2000-cd00-11eb-930c-771647df30c6.png">
-
-
 
 
 <!-- ROADMAP -->
@@ -76,7 +86,7 @@ See the [open issues](https://github.com/kguite/be-astonished/issues) for a list
 
 Features Coming Soon:
    * Contact and About Pages are currently empty placeholders.
-   * Will change Contact page to a list of inspirational content, such as brainpickings.org, https://emergencemagazine.org/, https://onbeing.org/, etc.
+   * Will change Contact page to a list of curated inspirational content, such as [brainpickings.org](https://www.brainpickings.org/), [Emergence Magaine](https://emergencemagazine.org/), [On Being Podcast](https://onbeing.org/), [UCLA's Guided Meditations](https://www.uclahealth.org/marc/mindful-meditations), etc.
    * Categories
    * Secret group code - keep your posts private to you only, or within your group.
 
